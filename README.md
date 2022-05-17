@@ -1,37 +1,45 @@
-# InformeTarea
+                                                      UNIVERSIDAD DE LAS FUERZAS ARMADAS     
+
+
+  [![descarga.png](https://i.postimg.cc/zGcx4kLy/descarga.png)](https://postimg.cc/Xr9KCdkW)                         
+
+NOMBB:XAVIER ALTAMIRANO  
+
+NRC:7318     FECHA:16/05/2022
+
+CARRERA:  ELECTRONICA Y AUTOMATIZACION
 
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+OBJETI  GENERAL
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
+-Absorbr el conocimiento  de las unidades que se utilizan en la electronica  para el uso diario ya sea  en la utilizacion de una computadora , calculadora o realizacion de ejercicios de  practica
 
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
+OBJETIVOS ESPECIFICOS 
+
+-APRENDER A ESCRIBIR Y RECONOCER NOTACION CIENTIFICA CON POTENCIAS DE DIEZ
+-COMPRENDER Y ANALIZAR  EL ESTANDAR SI
+-REALIZAR LA CONVERSION DE UNIDADES CON PREFIJO NUMERICO EN OTRA UNIDAD
+-OPERACIONALIZAR  CANTIDADES CON LA AYUDA DE  NOTACION DE INGENIERIA  Y PREFIJOS NUMERICOS
 
 
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
 
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
 
-Considerar la Taxonomía de Bloom
 
-2. MARCO TEÓRICO (RESUMEN)
+OBJETIVO GENERAL CAPITULO 2
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+-ANALIZAR LOS CONEPTOS DE LA CORRIENTE, VOLTAJE Y  RESISTENCIA , TANTO COMO LA OPERACION DE DISPOSITIVOS  PROTECTORES  COMO  FUSIBLES Y DISYUNTORES, FINALIZANDO CON  EL  APRENDIZAJE DE  CONTROLAR Y MEDIR VOLTAJE, CORRIENTE Y RESISTENCIA
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+OBJETIVOS ESPECIFICOS CAPITULO 2
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+-EXAMINAR RIESGOS AL MOMENTO DE LA PRACTICA
+-DESCRIBIR  VOLTAJE, CORRIENTE Y RESISTENCIA  CON SUS CARACTERIS  
+-ANALIZAR FUENTE DE VOLTAJE Y DE CORRIENTE 
+-RECONOCER UN CIRCUITO ELECTRICO BASICO
+
+2 . MARCO TEÓRICO (RESUMEN)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
