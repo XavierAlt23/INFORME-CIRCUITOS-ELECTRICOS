@@ -10,7 +10,7 @@ NRC:7318     FECHA:16/05/2022
 CARRERA:  ELECTRONICA Y AUTOMATIZACION
 
 
-1. OBJETIVOS
+                                                               1. OBJETIVOS
 
 OBJETIVO  GENERAL
 
@@ -79,22 +79,32 @@ Un prefijo métrico es un prefijo de unidad que precede a una unidad de medida b
 ![Cronograma vertical](https://user-images.githubusercontent.com/105680816/168746379-cbfe18b3-af51-42ef-a7bc-3ffca036fe85.png)
 
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+                                                  3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+![2022-05-17 (6)](https://user-images.githubusercontent.com/105680816/168760505-c3f337bc-e57d-47d5-ad60-9337d55d0e8e.png)
+![2022-05-17 (5)](https://user-images.githubusercontent.com/105680816/168760512-10acab78-5236-4074-a34d-c0a18d9bf731.png)
+![2022-05-17 (4)](https://user-images.githubusercontent.com/105680816/168760514-1881ec15-a8f0-4d5b-8ca8-9ce5d0ae78e4.png)
+![2022-05-17 (3)](https://user-images.githubusercontent.com/105680816/168760516-abc75e3f-0254-4d94-bd74-c34f95ee413e.png)
+![2022-05-17 (2)](https://user-images.githubusercontent.com/105680816/168760517-6bb0b341-6c39-4e08-80ec-2a987d2261b4.png)
+![2022-05-17 (1)](https://user-images.githubusercontent.com/105680816/168760519-a4d44352-d82d-4724-8131-c98582f44cb6.png)
+![2022-05-17](https://user-images.githubusercontent.com/105680816/168760522-3a0b6d57-c0ef-4653-b118-bfeb3bff0763.png)
 
-4. VIDEO
+                                                                            
+                                                                              
+                                                                              
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
+
+                                                                      4. VIDEO
+
+https://youtu.be/_u-r5i4Rmp4
 
 
-5. CONCLUSIONES
+                                                                    5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+Podemos concluir que hemos aprendido las unidades que se utilizan en el ambito electronico, comprendiendo la notacion cientifica, numero decimal regular entre otros
+Hemos aprendido los coneptos de la corriente, voltaje y  resistencia , tanto como la operacion de dispositivos  protectores  como  fusibles y disyuntores, finalizando con  el  aprendizaje de  controlar y medir voltaje, corriente y resistencia, examinando riesgos y precauciones que debemos tomar a la hora de ponerlo en practica
 
-6. BIBLIOGRAFÍA
+                                                                      6. BIBLIOGRAFÍA
 
 Notación científica. Ejemplos (video) | Khan Academy. (2003). https://es.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation
 
