@@ -89,9 +89,17 @@ Un prefijo métrico es un prefijo de unidad que precede a una unidad de medida b
 ![2022-05-17 (1)](https://user-images.githubusercontent.com/105680816/168760519-a4d44352-d82d-4724-8131-c98582f44cb6.png)
 ![2022-05-17](https://user-images.githubusercontent.com/105680816/168760522-3a0b6d57-c0ef-4653-b118-bfeb3bff0763.png)
 
-                                                                            
-                                                                              
-                                                                              
+                                                                        .   
+
+
+
+                                                                     CAPITULO II                                                                          
+![2022-05-17 (8)](https://user-images.githubusercontent.com/105680816/168910009-1f705ac8-9d7c-44dc-9f76-04a2510458a2.png)
+![2022-05-17 (9)](https://user-images.githubusercontent.com/105680816/168910436-2a36ca1c-b3eb-4c10-9525-c4b00c905bf9.png)
+![2022-05-17 (11)](https://user-images.githubusercontent.com/105680816/168911922-4f97cb55-783a-4f1a-afab-dc5349a6cfc3.png)
+![2022-05-17 (10)](https://user-images.githubusercontent.com/105680816/168911128-e7ce1d1b-2d26-4af1-a159-399cb16e0677.png)
+![2022-05-17 (12)](https://user-images.githubusercontent.com/105680816/168912633-9b62b0d7-dedd-46ae-9c4f-7e1d4f69d127.png)
+![2022-05-17 (13)](https://user-images.githubusercontent.com/105680816/168913475-8cb41815-8c55-4f77-a0bf-43e2de6b73df.png)
 
 
                                                                       4. VIDEO
