@@ -35,7 +35,7 @@ OBJETIVOS ESPECIFICOS CAPITULO 2
 -ANALIZAR FUENTE DE VOLTAJE Y DE CORRIENTE 
 -RECONOCER UN CIRCUITO ELECTRICO BASICO
 
-2 . MARCO TEÓRICO (RESUMEN)
+                                                               2 . MARCO TEÓRICO (RESUMEN)
 
    ![Clase UML (1)](https://user-images.githubusercontent.com/105680816/168724185-7a238ea1-e367-49c4-a80a-ff8e88e19d2b.png)
 
@@ -70,6 +70,9 @@ PREFIJO METRICO
 Un prefijo métrico es un prefijo de unidad que precede a una unidad de medida básica para indicar un múltiplo o submúltiplo de la unidad. Todos los prefijos métricos que se utilizan hoy en día son decádicos . Cada prefijo tiene un símbolo único que se antepone a cualquier símbolo de unidad. 
 
 
+![_Diagrama de flujo](https://user-images.githubusercontent.com/105680816/168735110-5a3d519c-ac0a-4051-a34d-8ad6de7a037a.png)
+
+![Plantilla de flujo de procesos de negocio](https://user-images.githubusercontent.com/105680816/168737715-c2d13094-41df-4d07-aaa0-df56f3f07f4f.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
