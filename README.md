@@ -74,6 +74,10 @@ Un prefijo métrico es un prefijo de unidad que precede a una unidad de medida b
 
 ![Plantilla de flujo de procesos de negocio](https://user-images.githubusercontent.com/105680816/168737715-c2d13094-41df-4d07-aaa0-df56f3f07f4f.png)
 
+![_Ejemplo de GAP de ventas - compra de un auto](https://user-images.githubusercontent.com/105680816/168742805-d1cc8ddc-4105-4c7f-9ab9-f7955d4020d5.png)
+
+![Cronograma vertical](https://user-images.githubusercontent.com/105680816/168746379-cbfe18b3-af51-42ef-a7bc-3ffca036fe85.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
