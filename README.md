@@ -71,6 +71,7 @@ Un prefijo métrico es un prefijo de unidad que precede a una unidad de medida b
 
 
 
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
